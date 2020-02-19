@@ -1,0 +1,36 @@
+.navbar-brand {
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  padding-left: 148px;
+}
+.form-inline {
+  padding-right: 100px;
+}
+
+.container-current {
+  margin: auto;
+  padding-left: 162px;
+  padding-right: 40px;
+  /* height: 280px; */
+}
+.container-days {
+  margin: auto;
+  padding-left: 40px;
+  padding-right: 40px;
+  /* height: 200px; */
+  display: flex !important;
+  justify-content: center !important;
+}
+.list-group-item {
+  display: flex !important;
+  justify-content: center !important;
+}
+
+#forecast {
+  padding-left: 160px;
+}
+
+#currentDate {
+  font-size: 30px;
+}
